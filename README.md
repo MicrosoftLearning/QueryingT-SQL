@@ -1,5 +1,4 @@
-![Querying with Transact-SQL]
-(https://www.edx.org/sites/default/files/styles/course_video_banner/public/course/image/featured-card/dat201x_thumbnail.jpg)
+![Querying with Transact-SQL](https://www.edx.org/sites/default/files/styles/course_video_banner/public/course/image/featured-card/dat201x_thumbnail.jpg)
 
 ***
 
